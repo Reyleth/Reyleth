@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Reyleth
+- 👋 Hi, I’m Ryley an aspiring software developer
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning HTML, CSS & Python
 - 💞️ I’m looking to collaborate on anything coding related
