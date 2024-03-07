@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reyleth
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS & Python
 - 💞️ I’m looking to collaborate on anything coding related
 - 📫 Reach me at reyleth on discord
 - ⚡ Fun fact: I am addicted to FFXIV
