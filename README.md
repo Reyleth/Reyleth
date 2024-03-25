@@ -10,7 +10,7 @@
 - 📫 Reach me at reyleth on discord
 - ⚡ Fun fact: I am addicted to FFXIV
 
-Access my projects on [My github webpage][https://reyleth.github.io/]
+Access my projects on [My github webpage](https://reyleth.github.io/)
 
 <!---
 Reyleth/Reyleth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
