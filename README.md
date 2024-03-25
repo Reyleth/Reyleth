@@ -1,3 +1,8 @@
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhoNGN3bHIzbjFuOGg3anE0MG10cnNoeGxjeHNrY3FicGdnMGI2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/giphy.gif">
+</div>
+
+
 - 👋 Hi, I’m Ryley an aspiring software developer
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning HTML, CSS, JavaScript & Python
