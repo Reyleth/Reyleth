@@ -27,7 +27,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
-Access my projects on <a href="https://reyleth.github.io/" target="_blank">My GitHub webpage</a>
+
+
+#### Access my projects on <a href="https://reyleth.github.io/" target="_blank">My GitHub webpage</a>
 </div>
 <!---
 Reyleth/Reyleth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
