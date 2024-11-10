@@ -10,7 +10,7 @@
 
  💞️ I’m looking to collaborate on anything coding related! Contact me!
 
- 📫 Reach me @reyleth on discord!
+ 📫 Reach me @reyleth.edu on discord!
 
  ⚡ Fun fact: I am addicted to FFXIV
 
